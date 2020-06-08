@@ -10,5 +10,24 @@
 	<atom:link href="https://github.com/mtg1231/mtg1231.github.io.git/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title></title>
+      <link>https://github.com/mtg1231/mtg1231.github.io.git/post/default/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mtg1231/mtg1231.github.io.git/post/default/</guid>
+      <description>draft = true # 作成中（作成後にfalseにする） date = &amp;ldquo;2020/06/08&amp;rdquo; # 作成日時が入る title = &amp;ldquo;mtgblog&amp;rdquo; # 記事のタイトル（ファイル名が入るので変更する）</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://github.com/mtg1231/mtg1231.github.io.git/post/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/mtg1231/mtg1231.github.io.git/post/first/</guid>
+      <description>draft = false # 作成中（作成後にfalseにする） date = &amp;ldquo;2020/06/08&amp;rdquo; # 作成日時が入る title = &amp;ldquo;mtgblog&amp;rdquo; # 記事のタイトル（ファイル名が入るので変更する）
+test1</description>
+    </item>
+    
   </channel>
 </rss>
