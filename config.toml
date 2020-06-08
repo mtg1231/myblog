@@ -1,3 +1,6 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://github.com/mtg1231/mtg1231.github.io.git"
+title = "mtgblog"
+theme = "angels-ladder"
+languageCode = "ja-JP"
+canonifyurls = true
+hasCJKLanguage = true
