@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on mtgblog</title>
+    <link>https://github.com/mtg1231/mtg1231.github.io/post/</link>
+    <description>Recent content in Posts on mtgblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <managingEditor>chanmitsu55@yahoo.co.jp (chanmitsu55)</managingEditor>
+    <webMaster>chanmitsu55@yahoo.co.jp (chanmitsu55)</webMaster>
+    
+	<atom:link href="https://github.com/mtg1231/mtg1231.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://github.com/mtg1231/mtg1231.github.io/1/01/01/default/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>chanmitsu55@yahoo.co.jp (chanmitsu55)</author>
+      <guid>https://github.com/mtg1231/mtg1231.github.io/1/01/01/default/</guid>
+      <description>draft = true # 作成中（作成後にfalseにする） date = &amp;ldquo;2020/06/08&amp;rdquo; # 作成日時が入る title = &amp;ldquo;mtgblog&amp;rdquo; # 記事のタイトル（ファイル名が入るので変更する）</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://github.com/mtg1231/mtg1231.github.io/1/01/01/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>chanmitsu55@yahoo.co.jp (chanmitsu55)</author>
+      <guid>https://github.com/mtg1231/mtg1231.github.io/1/01/01/first/</guid>
+      <description>draft = false # 作成中（作成後にfalseにする） date = &amp;ldquo;2020/06/08&amp;rdquo; # 作成日時が入る title = &amp;ldquo;mtgblog&amp;rdquo; # 記事のタイトル（ファイル名が入るので変更する）
+#test1 ##吾輩は猫である。名前はまだ無い。</description>
+    </item>
+    
+  </channel>
+</rss>
