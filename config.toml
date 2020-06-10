@@ -1,4 +1,4 @@
-baseURL = "https://github.com/mtg1231/mtg1231.github.io/"
+baseURL = "https://mtg1231.github.io/myblog/"
 title = "mtgblog"
 theme = "angels-ladder"
 languageCode = "ja-JP"

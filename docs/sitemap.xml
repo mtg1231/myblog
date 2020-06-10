@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/mtg1231/mtg1231.github.io/post/default/</loc>
+    <loc>https://mtg1231.github.io/myblog/post/default/</loc>
   </url>
   
   <url>
-    <loc>https://github.com/mtg1231/mtg1231.github.io/post/first/</loc>
-  </url>
-  
-  <url>
-    <loc>https://github.com/mtg1231/mtg1231.github.io/categories/</loc>
+    <loc>https://mtg1231.github.io/myblog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/mtg1231/mtg1231.github.io/post/</loc>
+    <loc>https://mtg1231.github.io/myblog/post/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/mtg1231/mtg1231.github.io/tags/</loc>
+    <loc>https://mtg1231.github.io/myblog/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/mtg1231/mtg1231.github.io/</loc>
+    <loc>https://mtg1231.github.io/myblog/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mtg1231.github.io/myblog/post/first/</loc>
   </url>
   
 </urlset>
