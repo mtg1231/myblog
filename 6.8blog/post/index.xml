@@ -28,7 +28,7 @@
       <author>chanmitsu55@yahoo.co.jp (chanmitsu55)</author>
       <guid>https://github.com/mtg1231/mtg1231.github.io/1/01/01/first/</guid>
       <description>draft = false # 作成中（作成後にfalseにする） date = &amp;ldquo;2020/06/08&amp;rdquo; # 作成日時が入る title = &amp;ldquo;mtgblog&amp;rdquo; # 記事のタイトル（ファイル名が入るので変更する）
-#test1 ##吾輩は猫である。名前はまだ無い。</description>
++++ #test1 ##吾輩は猫である。名前はまだ無い。</description>
     </item>
     
   </channel>

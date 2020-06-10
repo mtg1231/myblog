@@ -2,50 +2,5 @@ baseURL = "https://github.com/mtg1231/mtg1231.github.io/"
 title = "mtgblog"
 theme = "angels-ladder"
 languageCode = "ja-JP"
+publishDir = "docs"
 canonifyurls = true
-hasCJKLanguage = true
-weight = 1
-publishDir = "6.8blog"
-paginate = 10
-paginatePath = "page"
-[permalinks]
-	post = "/:year/:month/:day/:filename/"
-	code = "/:filename/"
-	
-[author]
-	name = "chanmitsu55"
-	email = "chanmitsu55@yahoo.co.jp"
-	
-[params.theme]
-	name = "yeti"
-  
-[params]
-	BrandImage = "/logo.png"
-	brand = "chanmitsu55 blog"
-	topline = "chanmitsu55の技術ブログ"
-	footline = "Copyright&copy; <a href='/about/'>chanmitsu55</a>"
-	showRightSidebar = true
-	highlight = "default"
-	twitter  = "chanmitsu55"
-	github   = "chanmitsu55"
-
-[[menu.main]]
-	name = "Home"
-	identifier = "home"
-	url = "/"
-	weight = -200
-	pre = "<i class='fa fa-home'></i>"
-
-[[menu.main]]
-	name = "Archives"
-	identifier = "archives"
-	url = "/post/"
-	weight = -180
-	pre = "<i class='fa fa-archive'></i>"
-
-[[menu.main]]
-	name = "About"
-	identifier = ""
-	url = "/about/"
-	weight = -100
-	pre = "<i class='fa fa-info-circle'></i>"

@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>https://github.com/mtg1231/mtg1231.github.io/post/first/</loc>
+  </url>
+  
+  <url>
     <loc>https://github.com/mtg1231/mtg1231.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -24,10 +28,6 @@
   <url>
     <loc>https://github.com/mtg1231/mtg1231.github.io/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/mtg1231/mtg1231.github.io/post/first/</loc>
   </url>
   
 </urlset>
