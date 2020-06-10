@@ -3,4 +3,4 @@ title = "mtgblog"
 theme = "angels-ladder"
 languageCode = "ja-JP"
 publishDir = "docs"
-canonifyurls = true
+canonifyurls = false
